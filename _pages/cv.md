@@ -17,20 +17,22 @@ Education
 Work experience
 ======
 * Mar 2019 - Apr 2019: Junior Data Scientist at **Dusk Mobile Pty Ltd**
+
 Dusk Mobile is a company which specializes in Field Service and Asset Management solutions.
   * Provided Trimble Navigation with a Proof-of-concept for predicting their logistics planning.
   * Delivered within 15 days with 74.45% prediction accuracy, Train: 2 months, Tested: next 2 weeks.
   * Provided scheduling recommendations based on confidence interval to ease the planning.
 
 * Nov 2018 - Feb 2019: Data Analyst at **Progressive Direct**
+
 Progressive Direct is a new affordable car insurance provider specializing in multi-car insurance.
   * Worked on insurance data for risk analysis, analyze the claims, policy movement & trends for analysis.
   * Provided data analytics with reports and enhanced the data-to-report delivery time by 14 times.
   * Eliminated the data errors and anomalies, automated & produced accurate monthly reports.
 
 * Mar 2016 - Jun 2018: Yield Engineer I at **Maxim Integrated**
-Maxim Integrated develops innovative analog ICs for automotive, industrial, & healthcare market.
 
+Maxim Integrated develops innovative analog ICs for automotive, industrial, & healthcare market.
   * Interacted with business owners to gather requirements by communicating effectively.
   * Analyzed large amount of manufacturing data to derive insights & scope to help end users.
   * Managed a project to deliver solutions for product engineering, an IDE designed to configure, visualize & reduce manufacturing defects.       * **Delivered 4 times faster than estimated time.**
@@ -50,11 +52,13 @@ Guest writer for an online technical magazine - **Circuit Digest**
 Volunteering
 ======
 * Nov 2018 - Ongoing: Retail Assistant at **Sacred Heart Mission**
+
 Sacred Heart Mission is a not-for-profit started in 1982.
   * Volunteered as a Retail Assistant on weekends for getting involved & meet new people.
   * Managed the clothes section, attended customers at the till and arranged the donations. 
  
 * Jun 2016 - Jun 2017: Tutor at **Vidhyadaan**
+
 Vidhyadaan is non-for-profit foundation to the life of under-privileged school children. 
   * Volunteered to teach Mathematics to underprivileged 6th & 7th grade kids.
   * Started with 10 kids, 7 stayed till the end. Average was 76.52% in final exam.
