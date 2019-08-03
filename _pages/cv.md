@@ -40,8 +40,8 @@ Work experience
 
 Skills
 ======
-* **Programming** : Python, R, SQL, Git, C, C++, C#, Java, Django, React, REST APIs, D3.JS, R Shiny, Javascript
-* **Softwares**   : Excel, Jupyter, RStudio, Klarity ACE, Tableau, MySQL, MongoDB, AWS, Docker, Confluence, JIRA
+* **Programming** : Python, R, SQL, Git, C++, Java, Django, React, REST APIs, D3.JS, R Shiny, Javascript
+* **Softwares**   : Excel, RStudio, Klarity ACE, Tableau, MySQL, MongoDB, AWS, Docker, Confluence, JIRA
 
 Articles
 ======
@@ -59,7 +59,7 @@ Volunteering
  
 * Jun 2016 - Jun 2017: Tutor at **Vidhyadaan**
 
-  Vidhyadaan is non-for-profit foundation to the life of under-privileged school children. 
+  Vidhyadaan is non-for-profit foundation for educating under-privileged school children. 
     * Volunteered to teach Mathematics to underprivileged 6th & 7th grade kids.
     * Started with 10 kids, 7 stayed till the end. Average was 76.52% in final exam.
   
