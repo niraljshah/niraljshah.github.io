@@ -10,13 +10,13 @@ redirect_from:
 
 If you have a question about electronics or data solutions, [contact me via my email address.](mailto:niraljshah@outlook.com)
 
-I’m a Data Science student at [Monash University](https://www.monash.edu/). My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018), business intelligence and importantly, providing progressive data solutions for it. I’m especially interested in delivering effective & informative reporting to keep a track on the performance and business insights in real-time.
+I’m a Data Science student at [Monash University](https://www.monash.edu/). My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018) and business intelligence. I plan to deliver this by providing progressive data solutions for it and automating effective & informative reporting to keep a track on the performance and business insights in real-time.
 
 I am an optimist with integrity, strong problem solving skills, strict attention to detail with commendable decision making & interpersonal skills. I can be found on [Quora](https://www.quora.com/profile/Niral-Shah-5) as well
 
 Here are some of the things I’m up to these days:
 
-* I am developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to deliver a quick overview of the performances of major supervised learning methods in one go. Check it out by using ``pip install BasicAnalysis``
+* I am developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to deliver a quick overview of the performances of major supervised learning methods in one go. Check it out ``pip install BasicAnalysis``
 
 * Another interesting task I am doing currently is to develop a [Stock Price Analyzer](https://github.com/niraljshah/Stock-Sentiment-Algorithm-for-Trading) using sentiment analysis on news articles. Yes, in real-time.
 
