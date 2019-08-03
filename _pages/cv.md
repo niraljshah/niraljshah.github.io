@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Mar 2019 - Apr 2019: Junior Data Scientist at **Dusk Mobile Pty Ltd**
+* Mar 2019 - Apr 2019: Junior Data Scientist at **Dusk Mobile**
 
   Dusk Mobile is a company which specializes in Field Service and Asset Management solutions.
     * Provided Trimble Navigation with a Proof-of-concept for predicting their logistics planning.
