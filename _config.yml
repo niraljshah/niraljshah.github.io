@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Niral J Shah"
   avatar           : "favicon.png"
-  bio              : "A progressive technologist, an avid pythonista & a problem solver"
+  bio              : "A progressive technologist, avid pythonista & problem solver"
   location         : "Melbourne, Australia"
-  employer         : "Monash University"
+  employer         : # "Enter employer when you get a Job :P"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "niraljshah@outlook.com"
