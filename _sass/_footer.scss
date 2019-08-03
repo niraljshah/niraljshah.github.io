@@ -12,10 +12,10 @@
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;
-  height: auto;
+  height: 100%;
   /* sticky footer fix end */
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#fff, $gray, 35%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -67,8 +67,8 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
