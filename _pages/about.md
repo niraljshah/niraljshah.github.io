@@ -1,16 +1,16 @@
 ---
 permalink: /
 title: "About me"
-excerpt: #
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-If you have a question about electronics, data science, python, data solutions, [contact me via my email address.](mailto:niraljshah@outlook.com)
+If you have a question about electronics, data science or data solutions, [contact me via my email address.](mailto:niraljshah@outlook.com)
 
-I’m a Data Science student at [Monash University](https://www.monash.edu/). I also happen to have a Bachelor's degree in Electronics engineering. My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018), business intelligence, optimizing budgeting, planning & forecasting, and most importantly, providing progressive data solutions for it. I’m especially interested in delivering effective & informative reporting to keep a track on the performance and business insights in real-time.
+I’m a Data Science student at [Monash University](https://www.monash.edu/). My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018), business intelligence, optimizing budgeting, planning & forecasting, and most importantly, providing progressive data solutions for it. I’m especially interested in delivering effective & informative reporting to keep a track on the performance and business insights in real-time.
 
 I am an optimist with integrity, strong problem solving skills, strict attention to detail with commendable decision making & interpersonal skills. I can be found on [Quora](https://www.quora.com/profile/Niral-Shah-5) as well
 
