@@ -1,13 +1,28 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: #
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+If you have a question about electronics, data science, python, data solutions, [contact me via my email address.](mailto:niraljshah@outlook.com)
+
+I’m a Data Science student at [Monash University](https://www.monash.edu/). I also happen to have a Bachelor's degree in Electronics engineering. My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018), business intelligence, optimizing budgeting, planning & forecasting, and most importantly, providing progressive data solutions for it. I’m especially interested in delivering effective & informative reporting to keep a track on the performance and business insights in real-time.
+
+I am an optimist with integrity, strong problem solving skills, strict attention to detail with commendable decision making & interpersonal skills. I can be found on [Quora](https://www.quora.com/profile/Niral-Shah-5) as well
+
+Here are some of the things I’m up to these days:
+
+* I developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to get a quick overview of the performances of major supervised learning methods in one go. You can download it using the command ``pip install BasicAnalysis``
+
+* Another interesting task I am doing currently is to develop a [Stock Price Analyzer](https://github.com/niraljshah/Stock-Sentiment-Algorithm-for-Trading) using sentiment analysis on news articles. This is a real-time delivery where news articles are analyzed to predict the effect it will have on a given stock.
+
+
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -27,7 +42,7 @@ Getting started
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
@@ -40,7 +55,7 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
@@ -48,3 +63,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
