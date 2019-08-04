@@ -74,8 +74,8 @@ Achievements
   * For delivering automation of descriptive analysis report for the product engineers across all locations.
   * Resulted in saving US$38,150 by capturing 3 major production issues in just 2 months of implementation.
   
- Certifications
- ======
+Certifications
+======
  * Certified Mutual Fund Advisor for Indian Markets.
  * ‘Python for Data Science and Machine Learning Bootcamp’ by Udemy.
  * ‘The Fundamentals of Digital Marketing’ by Google Inc.
