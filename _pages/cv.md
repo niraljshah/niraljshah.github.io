@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This page contains my CV. [Download my resume here](https://niraljshah.github.io/files/niraljshah.pdf)
+
 Education
 ======
 * M.S. in Data Science, [Monash University](https://www.monash.edu/), 2020 (expected)
