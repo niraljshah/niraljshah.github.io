@@ -16,7 +16,7 @@ I am an optimist with integrity, strong problem solving skills, strict attention
 
 Here are some of the things I’m up to these days:
 
-* I am developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to deliver a quick overview of the performances of major supervised learning methods in one go. Check it out ``pip install BasicAnalysis``
+* I am developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to deliver a quick overview of the performances of major supervised learning methods in one go. Check it out ``pip install basicanalysis``
 
 * Another interesting task I am doing currently is to develop a [Stock Price Analyzer](https://github.com/niraljshah/Stock-Sentiment-Algorithm-for-Trading) using sentiment analysis on news articles. Yes, in real-time.
 
