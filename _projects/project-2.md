@@ -18,7 +18,7 @@ I used the Business Times to search for news articles on Facebook. Ideally, we c
 and companies to reach to the news faster. So I ran it for the last six months and averaged the sentiments of each news article for a
 given day. Here it goes...
 
-<img src='/images/Sentiment.png'>
+<img src='/images/Sentiments.png'>
 
 Here, every sentiment score for the day shows the sentiment average for the day. 1 means a very positive news for the company while -1
 tends to show the negativity or a setback for the company. This gives an idea about how the stock of facebook is going to be in the
