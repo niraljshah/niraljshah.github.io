@@ -1,6 +1,6 @@
 ---
 title: "Stock Price Analyzer using sentiment analysis on news articles and tweets"
-excerpt: "Analysing the tweets and news, understanding the sentiment and predicting the stocks they are going to affect.</br>"
+excerpt: "Analysing the tweets and news, understanding the sentiment and predicting the stocks they are going to affect.<br/>"
 # <img src='/images/500x300.png'>"
 collection: project
 ---
