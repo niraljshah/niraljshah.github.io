@@ -21,5 +21,5 @@ For enquiries and support, contact us at [fallrelief@outlook.com](mailto:fallrel
 
 Made by a group of 4: 2 Business Analyst, an IT Developer and a Data Scientist - Team BigHD
 
-<img src='fall_relief.png'>
+<img src='/images/fall_relief.png'>
 
