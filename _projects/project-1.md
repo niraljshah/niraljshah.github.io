@@ -8,7 +8,8 @@ collection: project
 Most people consider falls are inevitable in seniors. Wrong! Contrary to the common belief, in most cases accidental falls are preventable.
 
 Globally, falls are a major public health problem.
-For people aged 65 years or older, the average health system cost per fall injury in Australia is a substantial A$ 1630.67.
+For people aged 65 years or older, the average health system cost per fall injury in Australia is a substantial A$ 1630.
+
 Implementation of effective prevention strategies with a subsequent 25% reduction in the incidence of falls for
 the 65+ age group could create a net savings of over A$ 50 million.
 
