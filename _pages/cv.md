@@ -19,6 +19,7 @@ Education
 Work experience
 ======
 * Sep 2019 - Jan 2029: Research Officer at **Monash University**
+
   [SoDa Labs](https://www.monash.edu/business/soda-labs/home) is an empirical research laboratory associated with Department of Economics & Business Statistics.
     * Working on data cleansing and compilation using Tesseract OCR by Google for conversion.
     * Implementing Optical Recognition using dedicated model, **brought up the accuracy from 10% to 98%**.
