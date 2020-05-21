@@ -1,6 +1,6 @@
 ---
 title: "Fall Relief: An effort to reduce falls and related injuries among age group 65 and older"
-excerpt: "https://www.fallrelief.vision/"
+excerpt: "Preventing unintentional fall injuries at home and making a better lifestyle"
 # <img src='/images/500x300.png'>"
 collection: project
 ---
@@ -16,8 +16,10 @@ Our product "Fall Relief" is born to solve this issue and improve user's lifesty
 by providing them with a targeted lifestyle plan which includes exercises and dietary regimes catered based on the
 user's current deficiency to help them live a better life and reduce the likelihood of falling.
 
-Visit https://www.fallrelief.vision/ now
-For enquiries and support, contact us at fallrelief@outlook.com
+Visit [Fall Relief](https://www.fallrelief.vision/) now
+For enquiries and support, contact us at [fallrelief@outlook.com](mailto:fallrelief@outlook.com)
 
 Made by a group of 4: 2 Business Analyst, an IT Developer and a Data Scientist - Team BigHD
+
+<img src='fall_relief.png'>
 
