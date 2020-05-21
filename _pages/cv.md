@@ -13,15 +13,20 @@ This page contains my CV. [Download my resume here](https://niraljshah.github.io
 
 Education
 ======
-* M.S. in Data Science, [Monash University](https://www.monash.edu/), 2020 (expected)
+* M.S. in Data Science, [Monash University](https://www.monash.edu/), 2020
 * B.Eng. in Electronics, [Gujarat Technological University](https://www.gtu.ac.in/), 2015
 
 Work experience
 ======
+* Sep 2019 - Jan 2029: Research Officer at **Monash University**
+  [SoDa Labs](https://www.monash.edu/business/soda-labs/home) is an empirical research laboratory associated with Department of Economics & Business Statistics.
+    * Working on data cleansing and compilation using Tesseract OCR by Google for conversion.
+    * Implementing Optical Recognition using dedicated model, **brought up the accuracy from 10% to 98%**.
+
 * Mar 2019 - Apr 2019: Junior Data Scientist at **Dusk Mobile**
 
   [Dusk Mobile](https://duskmobile.com/) is a company which specializes in Field Service and Asset Management solutions.
-    * Provided Trimble Navigation with a Proof-of-concept for predicting their logistics planning.
+    * Provided a leading Navigation company with a Proof-of-concept for predicting their logistics planning.
     * Delivered within 15 days with **74.45% prediction accuracy**, Train: 2 months, Tested: next 2 weeks.
     * Provided scheduling recommendations based on confidence interval to ease the planning.
 
@@ -43,7 +48,7 @@ Work experience
 
 Skills
 ======
-* **Programming** : Python, R, SQL, Git, C++, Java, Django, React, REST APIs, D3.JS, R Shiny, Javascript
+* **Programming** : Python, R, SQL, Git, C++, Java, Django, React, REST APIs, D3.JS, HTML/CSS, ASP.NET
 * **Softwares**   : Excel, RStudio, Klarity ACE, Tableau, MySQL, MongoDB, AWS, Docker, Confluence, JIRA
 
 Articles
@@ -79,5 +84,5 @@ Achievements
 Certifications
 ======
  * Certified Mutual Fund Advisor for Indian Markets.
- * ‘Python for Data Science and Machine Learning Bootcamp’ by Udemy.
+ * ‘Python for Data Science and Machine Learning - Advanced’ by Udemy.
  * ‘The Fundamentals of Digital Marketing’ by Google Inc.
