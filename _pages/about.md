@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /defaultsite
 ---
 
 I’m a Data Science graduate from [Monash University](https://www.monash.edu/). My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018) and business intelligence. I plan to deliver this by providing progressive data solutions for it and automating effective & informative reporting to keep a track on the performance and business insights in real-time.
