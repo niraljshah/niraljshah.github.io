@@ -74,7 +74,6 @@ Volunteering
   
 Achievements
 ======
-< Faculty of Information Technology International Merit Scholarship from Monash University >
 * *Inspiring Business Ideas* recognition by the Senior Management of Maxim Integrated
   * For pro-actively looking up on the businesses making loss or negatively impacting on the total revenue.
   * For delivering innovative & lucrative business ideas as an alternative to those businesses.
