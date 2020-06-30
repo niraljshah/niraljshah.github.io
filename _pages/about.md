@@ -11,11 +11,11 @@ redirect_from:
 
 I’m a Data Science graduate from [Monash University](https://www.monash.edu/). My personal interest is in computational finance, [statistical analysis](https://github.com/niraljshah/data_science_demographics_2018) and business intelligence. I plan to deliver this by providing progressive data solutions for it and automating effective & informative reporting to keep a track on the performance and business insights in real-time.
 
-I am an optimist with integrity, strong problem solving skills, strict attention to detail with commendable decision making & interpersonal skills. I can be found on [Quora](https://www.quora.com/profile/Niral-Shah-5) as well
+I am an optimist with integrity, strong problem solving skills, strict attention to detail with commendable decision making & interpersonal skills.
 
 Here are some of the things I’m up to these days:
 
-* I am developing my own [library](https://github.com/niraljshah/SupervisedLearningOverview) in Python to deliver a quick overview of the performances of major supervised learning methods in one go. Check it out ``pip install basicanalysis``
+* In a team of four, we created a solution for preventing unintentional fall injuries among older adults: [Fall Relief](https://www.niraljshah.com/projects/project-1/). It is an attempt to help them live a better life and reduce the likelihood of falling.
 
 * Another interesting task I am doing currently is to develop a [Stock Price Analyzer](https://github.com/niraljshah/Stock-Sentiment-Algorithm-for-Trading) using sentiment analysis on news articles. Yes, in real-time.
 
