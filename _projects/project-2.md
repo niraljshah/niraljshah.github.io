@@ -12,6 +12,8 @@ But how can we escape it and predict the change before it happens?
 Bloomberg is already using the technique of using sentiment analysis on current news to estimate the change on related stocks.
 And making millions out of it.
 
+[You can find this project and its code on Github here](https://github.com/niraljshah/Stock-Sentiment-Algorithm-for-Trading)
+
 Here is an example of how it works...
 
 I used the Business Times to search for news articles on Facebook. Ideally, we can use tweets from powerful celebrities, media houses
